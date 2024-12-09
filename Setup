@@ -1,0 +1,23 @@
+ASE230-Company-website/
+│
+├── admin/
+│   ├── pages/
+│   ├── team/
+│   ├── awards/
+│   ├── products/
+│   └── contacts/
+│
+├── lib/
+│   ├── read_plain.php
+│   ├── read_csv.php
+│   └── read_json.php
+│
+├── public/
+│   └── index.php
+│
+├── doc/
+│   ├── database_dump.sql
+│   └── README.md
+│
+└── README.md
+
